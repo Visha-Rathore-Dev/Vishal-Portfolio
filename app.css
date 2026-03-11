@@ -579,7 +579,7 @@ a.btn.ghost:hover {
     color: #475569;
     font-size: 12.8px;
 }
-.project-logo img{
+.project-logo img, .mark img{
   width: 38px;
   height: 38px;
   border-radius: 14px;

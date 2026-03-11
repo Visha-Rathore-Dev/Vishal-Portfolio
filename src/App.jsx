@@ -147,7 +147,7 @@ export default function App() {
         <div className="container topbar-inner">
           <a className="brand" href="#top" aria-label="Go to top">
             <span className="mark" aria-hidden="true">
-              VR
+             <img src="https://media.licdn.com/dms/image/v2/D4D03AQE0lk45zXCccg/profile-displayphoto-scale_400_400/B4DZy5lGBPJUAg-/0/1772640041464?e=1775088000&v=beta&t=SpqzjGc3HIvVjdDoUwJSZIpSJL5PKX0erS-OJP0V_48" alt="Vishal Rathore" />
             </span>
             <span className="brand-text">
               <strong>Vishal Rathore</strong>
@@ -186,10 +186,10 @@ export default function App() {
             <div className="card pad">
               <div className="hero">
                 <div className="avatar" aria-hidden="true">
-                  VR
+                  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE0lk45zXCccg/profile-displayphoto-scale_400_400/B4DZy5lGBPJUAg-/0/1772640041464?e=1775088000&v=beta&t=SpqzjGc3HIvVjdDoUwJSZIpSJL5PKX0erS-OJP0V_48" alt="Vishal Rathore" />
                 </div>
                 <div className="headline">
-                  <h1>Shopify Developer & Frontend Developer</h1>
+                  <h1>Frontend Developer | Shopify </h1>
                   <p>
                     I build fast, conversion-focused Shopify storefronts and
                     modern UI with React. Strong focus on performance,
@@ -243,7 +243,6 @@ export default function App() {
                 </a>
                 <a className="q" href="#contact">
                   <div>
-                    <strong>Resume&nbsp;</strong>
                     <a class="linku" href="https://1drv.ms/b/c/E1C59D799778FBEB/IQB5dRRY4vCNR4tNJZXCcmaeAQrGjvakLwri_3d4hnSLcus?e=h6QGbD"><strong>View Resume</strong></a>
                   </div>
                   <span aria-hidden="true">↗</span>
