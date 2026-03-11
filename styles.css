@@ -271,7 +271,7 @@ img {
   gap: 1rem;
 }
 
-.avatar {
+.avatar img{
   width: 56px;
   height: 56px;
   border-radius: 18px;
@@ -939,7 +939,7 @@ img {
   gap: 1rem;
 }
 
-.avatar {
+.avatar img{
   width: 56px;
   height: 56px;
   border-radius: 18px;
