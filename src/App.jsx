@@ -227,10 +227,10 @@ export default function App() {
               </div>
 
               <div className="quicklinks" aria-label="Quick links">
-                <a className="q" href="mailto:vishalrathore.wedev@outlook.com">
+                <a className="q" href="mailto:vishalrathore.webdev@outlook.com">
                   <div>
                     <strong>Email</strong>
-                    <span>&nbsp;vishalrathore.wedev@outlook.com</span>
+                    <span>&nbsp;vishalrathore.webdev@outlook.com</span>
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>
@@ -426,8 +426,8 @@ export default function App() {
                 <ul className="contact-list">
                   <li>
                     <span className="label">Email</span>
-                    <a href="mailto:vishalrathore.wedev@outlook.com">
-                      vishalrathore.wedev@outlook.com
+                    <a href="mailto:vishalrathore.webdev@outlook.com">
+                      vishalrathore.webdev@outlook.com
                     </a>
                   </li>
                   <li>
