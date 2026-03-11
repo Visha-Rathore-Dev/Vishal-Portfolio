@@ -230,21 +230,21 @@ export default function App() {
                 <a className="q" href="mailto:vishalrathore.wedev@outlook.com">
                   <div>
                     <strong>Email</strong>
-                    <span>vishalrathore.wedev@outlook.com</span>
+                    <span>&nbsp;vishalrathore.wedev@outlook.com</span>
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>
                 <a className="q" href="tel:+919926606484">
                   <div>
                     <strong>Phone</strong>
-                    <span>+91 99266 06484</span>
+                    <span>&nbsp;+91 99266 06484</span>
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>
                 <a className="q" href="#contact">
                   <div>
-                    <strong>Resume</strong>
-                    <span>Add a PDF link</span>
+                    <strong>Resume&nbsp;</strong>
+                    <a class="linku" href="https://1drv.ms/b/c/E1C59D799778FBEB/IQB5dRRY4vCNR4tNJZXCcmaeAQrGjvakLwri_3d4hnSLcus?e=h6QGbD"><strong>View Resume</strong></a>
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>

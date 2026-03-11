@@ -566,11 +566,20 @@ a {
 
 .project-brand {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 0.7rem;
 }
-
-.project-logo {
+a.btn.ghost:hover {
+    background-color: #0ea5e9;
+    color: #fff;
+    transition: 1s;
+}
+.linku {
+    display: inline-block;
+    color: #475569;
+    font-size: 12.8px;
+}
+.project-logo img{
   width: 38px;
   height: 38px;
   border-radius: 14px;
