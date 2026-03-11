@@ -243,7 +243,9 @@ export default function App() {
                 </a>
                 <a className="q" href="#contact">
                   <div>
-                    <a class="linku" href="https://1drv.ms/b/c/E1C59D799778FBEB/IQB5dRRY4vCNR4tNJZXCcmaeAQrGjvakLwri_3d4hnSLcus?e=h6QGbD"><strong>View Resume</strong></a>
+                    <a class="linku" href="https://1drv.ms/b/c/E1C59D799778FBEB/IQB5dRRY4vCNR4tNJZXCcmaeAQrGjvakLwri_3d4hnSLcus?e=h6QGbD" target="_blank" rel="noreferrer">
+                      <strong>View Resume</strong>
+                    </a>
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>
@@ -438,7 +440,9 @@ export default function App() {
                   </li>
                   <li>
                     <span className="label">LinkedIn</span>
-                    <span>Add your profile URL here</span>
+                    <a href="https://www.linkedin.com/in/vishal-rathore-738b2a259/" target="_blank" rel="noreferrer">
+                      <span>Vishal Rathore</span>
+                    </a>
                   </li>
                 </ul>
 
