@@ -226,7 +226,7 @@ export default function App() {
                 </div>
               </div>
 
-              <div className="quicklinks q" aria-label="Quick links">
+              <div className="quicklinks" aria-label="Quick links">
                 <a className="q" href="mailto:vishalrathore.webdev@outlook.com">
                   <div>
                     <strong>Email</strong>
@@ -241,7 +241,7 @@ export default function App() {
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>
-                    <a class="linku" href="https://1drv.ms/b/c/E1C59D799778FBEB/IQB5dRRY4vCNR4tNJZXCcmaeAQrGjvakLwri_3d4hnSLcus?e=h6QGbD" target="_blank" rel="noreferrer">
+                    <a class="linku q" href="https://1drv.ms/b/c/E1C59D799778FBEB/IQB5dRRY4vCNR4tNJZXCcmaeAQrGjvakLwri_3d4hnSLcus?e=h6QGbD" target="_blank" rel="noreferrer">
                   <div>
                       <strong>View Resume</strong>
                   </div>
