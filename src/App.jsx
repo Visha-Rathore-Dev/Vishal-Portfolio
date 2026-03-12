@@ -415,7 +415,7 @@ export default function App() {
               </div>
             </section>
 
-            <form id="contact" onSubmit={sendEmail} className="card section">
+            <section id="contact" className="card section">
               <h2>Contact</h2>
               <p className="sub">
                 Hiring for Shopify Developer / Frontend Developer? Let’s talk.
@@ -483,7 +483,7 @@ export default function App() {
                   </button>
                 </form>
               </div>
-            </form>
+            </section>
 
             <footer className="footer">
               <div className="container" style={{ padding: 0 }}>
