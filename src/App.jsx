@@ -241,11 +241,9 @@ export default function App() {
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>
-                <a className="q" href="#contact">
-                  <div>
                     <a class="linku" href="https://1drv.ms/b/c/E1C59D799778FBEB/IQB5dRRY4vCNR4tNJZXCcmaeAQrGjvakLwri_3d4hnSLcus?e=h6QGbD" target="_blank" rel="noreferrer">
+                  <div>
                       <strong>View Resume</strong>
-                    </a>
                   </div>
                   <span aria-hidden="true">↗</span>
                 </a>
