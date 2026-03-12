@@ -226,7 +226,7 @@ export default function App() {
                 </div>
               </div>
 
-              <div className="quicklinks" aria-label="Quick links">
+              <div className="quicklinks q" aria-label="Quick links">
                 <a className="q" href="mailto:vishalrathore.webdev@outlook.com">
                   <div>
                     <strong>Email</strong>
