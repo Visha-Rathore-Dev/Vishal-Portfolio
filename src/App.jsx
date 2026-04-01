@@ -213,7 +213,7 @@ export default function App() {
                 <div className="meta" aria-label="Profile details">
                   <div className="meta-item">
                     <span>Experience</span>
-                    <span>3+ years</span>
+                    <span>4+ years</span>
                   </div>
                   <div className="meta-item">
                     <span>Location</span>
